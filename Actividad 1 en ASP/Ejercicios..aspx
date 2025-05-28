@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Ejercicios.aspx.cs" Inherits="Actividad_1_en_ASP.Ejercicios" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Ejercicios..aspx.cs" Inherits="Actividad_1_en_ASP.Ejercicios" %>
 
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml">
